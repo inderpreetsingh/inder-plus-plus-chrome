@@ -2,5 +2,5 @@
   "name": "Inder productivity plus",
   "description": "a chrome extension to help inder increase his productivity",
   "version": "1.0",
-  "mainfest_version": 3
+  "manifest_version": 3
 }
