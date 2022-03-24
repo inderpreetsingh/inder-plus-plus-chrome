@@ -2,5 +2,9 @@
   "name": "Inder productivity plus",
   "description": "a chrome extension to help inder increase his productivity",
   "version": "1.0",
-  "manifest_version": 3
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage"]
 }
